@@ -140,7 +140,6 @@ Ele inclui as etapas de análises iniciais, transformação dos dados em diferen
 
 <br/>
 
-
 ## Obrigado !
 
 > Agradecimento especial à [**CODER HOUSE**](https://coderhouse.com.br) pelo curso de `Python para Análise de Dados`.
